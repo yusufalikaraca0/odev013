@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\bin\Debug\boskavgaetmeyin.exe.config
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\bin\Debug\boskavgaetmeyin.exe
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\bin\Debug\boskavgaetmeyin.pdb
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\obj\Debug\boskavgaetmeyin.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\obj\Debug\boskavgaetmeyin.Form1.resources
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\obj\Debug\boskavgaetmeyin.Properties.Resources.resources
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\obj\Debug\boskavgaetmeyin.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\obj\Debug\boskavgaetmeyin.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\obj\Debug\boskavgaetmeyin.exe
+C:\Users\yusuf\source\repos\boskavgaetmeyin\boskavgaetmeyin\obj\Debug\boskavgaetmeyin.pdb

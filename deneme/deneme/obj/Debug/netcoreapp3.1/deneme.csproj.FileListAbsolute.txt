@@ -1,0 +1,13 @@
+C:\Users\yusuf\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.exe
+C:\Users\yusuf\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.deps.json
+C:\Users\yusuf\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.runtimeconfig.json
+C:\Users\yusuf\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.dll
+C:\Users\yusuf\source\repos\deneme\deneme\bin\Debug\netcoreapp3.1\deneme.pdb
+C:\Users\yusuf\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.dll
+C:\Users\yusuf\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.pdb
+C:\Users\yusuf\source\repos\deneme\deneme\obj\Debug\netcoreapp3.1\deneme.genruntimeconfig.cache

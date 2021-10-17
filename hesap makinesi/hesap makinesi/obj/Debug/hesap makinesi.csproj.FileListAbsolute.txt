@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.resources
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+C:\Users\yusuf\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb
